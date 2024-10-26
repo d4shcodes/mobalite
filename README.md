@@ -19,13 +19,12 @@ Mobalite is a lightweight Laravel project that sets up Tailwind CSS from scratch
 
 <table>
     <tr>
-        <td>![image](https://github.com/user-attachments/assets/ab6001da-1974-44e9-a69e-e7a615e939c3)
-</td>
-<td>![image](https://github.com/user-attachments/assets/6eec1bbc-2a25-4272-9f88-c3c2ddbb8e4b)
-</td>
-        <td>![image](https://github.com/user-attachments/assets/97183b3d-5121-417b-9a4c-7f688d668a13)
-</td>
-        <td>![image](https://github.com/user-attachments/assets/71ec5787-4466-4ff8-89a6-549a154457d7)
-</td>
+        <td><img src="https://github.com/user-attachments/assets/ab6001da-1974-44e9-a69e-e7a615e939c3"/></td>
+        <td><img src="https://github.com/user-attachments/assets/6eec1bbc-2a25-4272-9f88-c3c2ddbb8e4b"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/97183b3d-5121-417b-9a4c-7f688d668a13"/></td>
+        <td><img src="https://github.com/user-attachments/assets/71ec5787-4466-4ff8-89a6-549a154457d7"/></td>
     </tr>
 </table>
+
